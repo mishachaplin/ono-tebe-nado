@@ -78,7 +78,7 @@ p.header__address {
   position: relative;
   z-index: -2;
   padding: 165px 50px 50px 50px;
-  background-image: url(./images/cover.jpg);
+  background-image: url(https://raw.githubusercontent.com/mishachaplin/ono-tebe-nado/main/images/cover.jpg);
   background-repeat: no-repeat;
   background-position: -125px 0;
   background-size: cover;
