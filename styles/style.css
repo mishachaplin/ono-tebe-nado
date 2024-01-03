@@ -133,7 +133,7 @@ p.header__address {
 .cover__description {
   display: grid;
   grid-template-columns: auto auto;
-  justify-content: space-between; 
+  justify-content: space-between;
   margin-top: 127px;
   margin-left: 32px;
   color: #FFF;
@@ -147,9 +147,9 @@ p.header__address {
   font-weight: 400;
   font-size: 22px;
   font-style: normal;
-  line-height: 28px; 
+  line-height: 28px;
   text-transform: uppercase;
-  word-spacing: 18px; 
+  word-spacing: 18px;
 }
 
 button {
