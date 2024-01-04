@@ -20,7 +20,7 @@
 }
 
 .header__link {
-  font-family: "Raleway";
+  font-family: 'Raleway', Arial, Helvetica, sans-serif;
   font-weight: 400;
   font-size: 18px;
   text-decoration: underline;
@@ -59,7 +59,7 @@
 }
 
 .header__address {
-  font-family: "Raleway";
+  font-family: 'Raleway', Arial, Helvetica, sans-serif;
   font-weight: 400;
   font-size: 18px;
   font-style: normal;
@@ -97,7 +97,7 @@ p.header__address {
   flex-direction: column;
   gap: 10px;
   color: #FFF;
-  font-family: Raleway;
+  font-family: 'Raleway', Arial, Helvetica, sans-serif;
   font-weight: 700;
   font-size: 100px;
   line-height: 115px;
@@ -143,7 +143,7 @@ p.header__address {
   display: block;
   align-self: center;
   color: #FFF;
-  font-family: Raleway;
+  font-family: 'Raleway', Arial, Helvetica, sans-serif;
   font-weight: 400;
   font-size: 22px;
   font-style: normal;
@@ -166,7 +166,7 @@ button {
   width: 255px;
   height: 50px;
   border: solid 1px #fff;
-  font-family: Raleway;
+  font-family: 'Raleway', Arial, Helvetica, sans-serif;
   font-weight: 500;
   font-size: 22px;
   font-style: normal;
@@ -182,7 +182,7 @@ button {
 
 .lots__heading {
   padding-left: 40px;
-  font-family: Raleway;
+  font-family: 'Raleway', Arial, Helvetica, sans-serif;
   font-weight: 700;
   font-size: 40px;
   font-style: normal;
@@ -226,7 +226,7 @@ button {
 .card__title {
   z-index: 1;
   color: #FFF;
-  font-family: Raleway;
+  font-family: 'Raleway', Arial, Helvetica, sans-serif;
   font-weight: 700;
   font-size: 22px;
   font-style: normal;
@@ -238,7 +238,7 @@ button {
 .card__text {
   z-index: 1;
   color: #FFF;
-  font-family: Raleway;
+  font-family: 'Raleway', Arial, Helvetica, sans-serif;
   font-weight: 400;
   font-size: 20px;
   font-style: normal;
@@ -262,7 +262,7 @@ button {
   max-width: fit-content;
   margin-top: 30px;
   margin-left: 40px;
-  font-family: Raleway;
+  font-family: 'Raleway', Arial, Helvetica, sans-serif;
   font-weight: 400;
   font-size: 20px;
   font-style: normal;
@@ -302,7 +302,7 @@ button {
 .about__title {
   margin: 0;
   padding: 98px 0 101px 0;
-  font-family: Raleway;
+  font-family: 'Raleway', Arial, Helvetica, sans-serif;
   font-weight: 700;
   font-size: 40px;
   font-style: normal;
@@ -317,7 +317,7 @@ button {
 }
 
 .about__text {
-  font-family: Raleway;
+  font-family: 'Raleway', Arial, Helvetica, sans-serif;
   font-weight: 400;
   font-size: 20px;
   font-style: normal;
@@ -342,7 +342,7 @@ button {
 }
 
 .footer__menu-list-item {
-  font-family: Raleway;
+  font-family: 'Raleway', Arial, Helvetica, sans-serif;
   font-weight: 400;
   font-size: 18px;
   font-style: normal;
